@@ -14,6 +14,6 @@ npm run dev
 # build for production with minification
 npm run build
 
-# ssr serve with hot reload at localhost:3000
+# ssr serve at localhost:3000
 npm run ssr
 ```
